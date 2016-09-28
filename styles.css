@@ -10,14 +10,21 @@ h1 {
   font-size: 2em;
   font-family: "calibri", sans-serif;
 }
+h1.small {line-height:20%}
 
 h2 {
   color: black;
 }
+h2.small {line-height:70%}
+
+h3 {
+  color: #FFB71E;
+}
 
 #Menu {
   background-color: #5B0013;
-  color: #FFB71E;
+color:#FFB71E;
+  padding: .5%;
 }
 
 #Header {
