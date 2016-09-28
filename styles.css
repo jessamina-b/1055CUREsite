@@ -1,12 +1,26 @@
 body {
-  font-family: "Optima", sans-serif;
+  font-family: "Helvetica", sans-serif;
+  background:url("lion3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #5B0013;
+  font-size: 2em;
+  font-family: "calibri", sans-serif;
 }
 
 h2 {
-  color: #7A0019;
+  color: black;
 }
 
-#contact {
-  background-color: #FFDE7A;
-  padding: 2%;
+#Menu {
+  background-color: #5B0013;
+  color: #FFB71E;
+}
+
+#Header {
+background-color: white;
+padding:2%;
 }
