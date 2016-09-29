@@ -31,3 +31,10 @@ color:#FFB71E;
 background-color: white;
 padding:2%;
 }
+a {
+  text-decoration: none;
+  color: #FFB71E;
+}
+a:hover {
+  color:white;
+}
